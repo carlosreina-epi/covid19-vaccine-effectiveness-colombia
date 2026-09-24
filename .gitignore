@@ -1,11 +1,9 @@
-# Data — never commit real data
-data/raw/
-data/processed/
+# Data — never commit any data, real or synthetic
+data/
 *.csv
 *.xlsx
 *.sav
 *.dta
-!data/synthetic/*.csv
 
 # R
 .Rproj.user/
