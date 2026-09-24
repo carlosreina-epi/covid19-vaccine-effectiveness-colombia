@@ -1,0 +1,29 @@
+# Data — never commit real data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.sav
+*.dta
+!data/synthetic/*.csv
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# renv
+renv/library/
+renv/local/
+renv/staging/
+
+# Quarto / rendered output
+/.quarto/
+*_files/
+*_cache/
+
+# OS
+.DS_Store
+Thumbs.db
