@@ -1,5 +1,5 @@
 # COVID-19 vaccine effectiveness in two Colombian cities: a target trial emulation
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945666.svg)](https://doi.org/10.5281/zenodo.22945666)
 Reproducible analysis pipeline for a population-based cohort study estimating the
 effectiveness of Colombia's National Vaccination Plan against SARS-CoV-2 infection,
 hospitalisation and death in Cali and Montería (February 2021 – June 2022).
@@ -123,6 +123,9 @@ the estimates describe the primary schedule alone. Sensitivity to unmeasured
 confounding is quantified with an E-value in `R/06_diagnostics.R`.
 
 ## Citation
+Reina Bolaños CA. *COVID-19 vaccine effectiveness in two Colombian cities: a target
+trial emulation* [software]. Version 1.0.0. Zenodo; 2026.
+[doi:10.5281/zenodo.22945666](https://doi.org/10.5281/zenodo.22945666)
 
 Reina Bolaños CA. *Evaluación de efectividad del Plan Nacional de Vacunación contra
 el COVID-19 en dos ciudades colombianas durante el periodo de emergencia sanitaria.*

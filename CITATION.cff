@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or analysis pipeline, please cite it as below."
+type: software
+title: "COVID-19 vaccine effectiveness in two Colombian cities: a target trial emulation"
+abstract: "Reproducible analysis pipeline for a population-based cohort study estimating the effectiveness of Colombia's National Vaccination Plan against SARS-CoV-2 infection, hospitalisation and death in Cali and Montería, February 2021 to June 2022. Includes a synthetic data generator with a known true effect, cohort construction with time-varying exposure on a calendar time scale, risk-set matching, effectiveness models and diagnostics."
+authors:
+  - family-names: "Reina Bolaños"
+    given-names: "Carlos Alberto"
+    orcid: "https://orcid.org/0000-0002-6367-9239"
+version: "1.0.0"
+date-released: "2026-09-24"
+license: MIT
+doi: "10.5281/zenodo.22945666"
+repository-code: "https://github.com/carlosreina-epi/covid19-vaccine-effectiveness-colombia"
+url: "https://carlosreina-epi.github.io/covid19-vaccine-effectiveness-colombia/"
+keywords:
+  - epidemiology
+  - causal inference
+  - target trial emulation
+  - vaccine effectiveness
+  - survival analysis
+  - reproducible research
